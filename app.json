@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "tablaNutricionAlimentos",
-    "slug": "tablaNutricionAlimentos",
+    "slug": "tablasustitucionalimentos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5ad30c20-a953-4a6e-b4a4-cadb2546cd2a"
+      }
+    },
+    "owner": "johanxr1"
   }
 }
